@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha2_6cb07ff34b3bbfce2498ce71000f0c8f0cd3b04e.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha2_65c5210c26895974a8156e19c258f7048b3e162f.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha2_2ce82baa25338090cd308c0c1360decabf47ee1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha2_b5936b37ab3e2df7ab1fceb34beec1b1fad19b63.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha2_b1661607d8398f1eb185a37d5564dcc1c231f947.jar" />
+    </item>
+    <item
+        jar="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\DELL\Downloads\Developpement\Dev Android\MesProjets\HelloWorld\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha2_4253c576492e37942af546145e2336aef0666fc9.jar" />
+    </item>
+
+</items>
