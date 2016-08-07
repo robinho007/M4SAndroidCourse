@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="mobilesenegal.sn.firebasestudent.MainActivityFragment"
+    tools:showIn="@layout/activity_main">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="What is your id ?"
+                android:id="@+id/idLibelle"
+                android:layout_alignParentStart="true"
+                android:textIsSelectable="false"
+                android:textSize="20dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/idField"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/idLibelle"
+                android:layout_alignEnd="@+id/nameLibelle" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="What is your first name ?"
+                android:id="@+id/nameLibelle"
+                android:layout_below="@+id/idField"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="20dp"
+                android:textSize="20dp" />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nameField"
+                android:layout_below="@+id/nameLibelle"
+                android:layout_alignParentStart="true"
+                android:layout_alignEnd="@+id/idField" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:id="@+id/submit"
+        android:layout_below="@+id/scrollView"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

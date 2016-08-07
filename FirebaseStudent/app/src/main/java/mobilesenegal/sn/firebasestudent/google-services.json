@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015632545277",
+    "firebase_url": "https://fir-student-621ca.firebaseio.com",
+    "project_id": "fir-student-621ca",
+    "storage_bucket": "fir-student-621ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015632545277:android:9273e2a555a64e20",
+        "android_client_info": {
+          "package_name": "mobilesenegal.sn.firebasestudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015632545277-odeeq3tordfh1clbmbtk6fkoskil5ha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVsntB7ciZa5uG_9J3rfY_SZzv7Rw5D5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

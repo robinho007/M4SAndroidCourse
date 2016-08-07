@@ -1,0 +1,4 @@
+Infos sur le SDK
+
+minSdkVersion 19
+targetSdkVersion 24
